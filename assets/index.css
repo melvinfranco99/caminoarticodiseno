@@ -1,0 +1,3204 @@
+.mediaViewInfo {
+    --web-view-name: caminoartico;
+    --web-view-id: caminoartico;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: caminoartico;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#caminoartico {
+    position: absolute;
+    width: 1920px;
+    height: 10173px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: caminoartico;
+    --web-view-id: caminoartico;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#FONDO {
+    position: absolute;
+    width: 1920px;
+    height: 9350px;
+    left: 0px;
+    top: 244px;
+    overflow: visible;
+}
+#Fondo_Seccin {
+    mix-blend-mode: normal;
+    position: absolute;
+    width: 1920px;
+    height: 9350px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+#Fondo_Seccin_i {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#mountain-5297839_1280 {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_l {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 1125px;
+    overflow: visible;
+}
+#mountain-5297839_1280_m {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_n {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_n {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_o {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 2250px;
+    overflow: visible;
+}
+#mountain-5297839_1280_p {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_q {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_q {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_r {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 3375px;
+    overflow: visible;
+}
+#mountain-5297839_1280_s {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_t {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_t {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_u {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 4500px;
+    overflow: visible;
+}
+#mountain-5297839_1280_v {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_w {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_w {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_x {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 5625px;
+    overflow: visible;
+}
+#mountain-5297839_1280_y {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_z {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_z {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_ {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 6750px;
+    overflow: visible;
+}
+#mountain-5297839_1280_ {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_ {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_ {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_ba {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 7875px;
+    overflow: visible;
+}
+#mountain-5297839_1280_ba {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_ba {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_ba {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#Fondo_Seccin_bb {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 9000px;
+    overflow: visible;
+}
+#mountain-5297839_1280_bb {
+    position: absolute;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Transparencia_fondo_bb {
+    opacity: 0.69;
+    fill: rgba(0,0,0,1);
+}
+.Transparencia_fondo_bb {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1129px;
+    left: 0px;
+    top: 0px;
+}
+#FOOTER {
+    position: absolute;
+    width: 1920px;
+    height: 2048px;
+    left: 0px;
+    top: 8125px;
+    overflow: visible;
+}
+#Footer_FONDO {
+    fill: rgba(173,214,217,1);
+}
+.Footer_FONDO {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 2048px;
+    left: 0px;
+    top: 0px;
+}
+#Bloque_SIGUENOS {
+    position: absolute;
+    width: 773px;
+    height: 372px;
+    left: 574px;
+    top: 204px;
+    overflow: visible;
+}
+#SGUENOS {
+    left: 185px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 403px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 128px;
+    color: rgba(0,0,0,1);
+}
+#SUSCRBETE_A_NUESTRA_NEWSLETTER {
+    left: 0px;
+    top: 297px;
+    position: absolute;
+    overflow: visible;
+    width: 774px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 67px;
+    color: rgba(0,0,0,1);
+}
+#input_nombre {
+    position: absolute;
+    width: 1144px;
+    height: 142px;
+    left: 388px;
+    top: 689px;
+    overflow: visible;
+}
+#Rectngulo_18 {
+    fill: rgba(218,222,223,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_18 {
+    position: absolute;
+    overflow: visible;
+    width: 1144px;
+    height: 142px;
+    left: 0px;
+    top: 0px;
+}
+#Rectngulo_19 {
+    fill: rgba(218,222,223,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_19 {
+    position: absolute;
+    overflow: visible;
+    width: 1144px;
+    height: 142px;
+    left: 0px;
+    top: 0px;
+}
+#Escribe_tu_nombre {
+    left: 65px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 79px;
+    color: rgba(121,200,205,1);
+}
+
+input{
+    left: 65px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 79px;
+    color: rgba(121,200,205,1);
+}
+
+input::placeholder{
+    left: 65px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 79px;
+    color: rgba(121,200,205,1);
+}
+
+#input_correo {
+    position: absolute;
+    width: 1144px;
+    height: 142px;
+    left: 388px;
+    top: 857px;
+    overflow: visible;
+}
+
+#Escribe_tu_correo_electrnico {
+    left: 65px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 735px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 79px;
+    color: rgba(121,200,205,1);
+}
+#he_leido {
+    position: absolute;
+    width: 808px;
+    height: 39px;
+    left: 388px;
+    top: 1025px;
+    overflow: visible;
+}
+#checkbox_he_leido {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.checkbox_he_leido {
+    position: absolute;
+    overflow: visible;
+    width: 39px;
+    height: 39px;
+    left: 0px;
+    top: 0px;
+}
+#He_ledo_y_acepto_las_polticas_ {
+    left: 65px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 744px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    color: rgba(0,0,0,1);
+}
+#button_suscribir {
+    position: absolute;
+    width: 1144px;
+    height: 121px;
+    left: 388px;
+    top: 1141px;
+    overflow: visible;
+}
+#fondo_susbribir {
+    fill: rgba(204,170,53,1);
+}
+.fondo_susbribir {
+    position: absolute;
+    overflow: visible;
+    width: 1144px;
+    height: 121px;
+    left: 0px;
+    top: 0px;
+}
+#SUSCRIBIR {
+    left: 462px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 221px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(0,0,0,1);
+}
+#siguenos_en {
+    position: absolute;
+    width: 628px;
+    height: 372px;
+    left: 646px;
+    top: 1522px;
+    overflow: visible;
+}
+#SGUENOS_EN {
+    left: 126px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 377px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 91px;
+    color: rgba(0,0,0,1);
+}
+#iconos_footer {
+    position: absolute;
+    width: 628px;
+    height: 126px;
+    left: 0px;
+    top: 246px;
+    overflow: visible;
+}
+#instagram {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
+    
+}
+#Elipse_1 {
+    fill: transparent;
+    /*fill: rgba(218,222,223,1);*/
+}
+.Elipse_1f {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    
+}
+#Elipse_1f {
+    fill: rgba(218,222,223,1);
+}
+
+
+#Instagram_Icono {
+    fill: rgba(0,0,0,1);
+}
+.Instagram_Icono {
+    overflow: visible;
+    position: absolute;
+    width: 54.948px;
+    height: 54.937px;
+    left: 36px;
+    top: 35.92px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#youtube {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    left: 251px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 45px;
+    left: 124px;
+    top: 0px;
+    z-index: 2;
+    
+}
+#Elipse_2 {
+    fill: transparent;
+    /*fill: rgba(218,222,223,1);*/
+}
+#Elipse_2f {
+    fill: rgba(218,222,223,1);
+}
+.Elipse_2f {
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    height: 126px;
+    left: 0px;
+    top: 0px;
+}
+#Icon_ionic-logo-youtube {
+    fill: rgba(0,0,0,1);
+}
+.Icon_ionic-logo-youtube {
+    overflow: visible;
+    position: absolute;
+    width: 60.093px;
+    height: 54.937px;
+    left: 32.954px;
+    top: 35.92px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#spotify {
+    position: absolute;
+    width: 126px;
+    height: 126px;
+    left: 502px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 45px;
+    left: 62px;
+    top: 0px;
+    z-index: 2;
+    
+}
+#Elipse_3 {
+    fill: transparent;
+    /*fill: rgba(218,222,223,1);*/
+}
+#Elipse_3f {
+    fill: rgba(218,222,223,1);
+}
+.Elipse_3f {
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    height: 126px;
+    left: 0px;
+    top: 0px;
+}
+#Spotify_Icono {
+    fill: rgba(0,0,0,1);
+}
+.Spotify_Icono {
+    overflow: visible;
+    position: absolute;
+    width: 54.937px;
+    height: 54.937px;
+    left: 35.052px;
+    top: 35.92px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#SECCIONES {
+    position: absolute;
+    width: 4780px;
+    height: 7641.816px;
+    left: 0px;
+    top: 351px;
+    overflow: visible;
+}
+#S_LOGO {
+    position: absolute;
+    width: 669px;
+    height: 728px;
+    left: 626px;
+    top: 0px;
+    overflow: visible;
+}
+#Compra_ya_tu_entrada_enlace {
+    position: absolute;
+    width: 558px;
+    height: 105px;
+    left: 55px;
+    top: 623px;
+    overflow: visible;
+}
+#COMPRA_YA_TU_ENTRADA {
+    left: 20px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 508px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 67px;
+    color: rgba(121,200,205,1);
+}
+#encuadre_compraYaTuEntrada {
+    fill: transparent;
+    stroke: rgba(174,203,205,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.encuadre_compraYaTuEntrada {
+    position: absolute;
+    overflow: visible;
+    width: 558px;
+    height: 105px;
+    left: 0px;
+    top: 0px;
+}
+#ESPECTCULO_MUSICAL {
+    left: 0px;
+    top: 511px;
+    position: absolute;
+    overflow: visible;
+    width: 670px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#Logo {
+    position: absolute;
+    width: 458px;
+    height: 458px;
+    left: 105px;
+    top: 0px;
+    overflow: visible;
+}
+#logo {
+    position: absolute;
+    width: 458px;
+    height: 458px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#logo:hover{
+    transform: scale(1.2);
+}
+
+#cubre_mancha_del_logo {
+    fill: rgba(1,1,1,1);
+    position: relative;
+}
+.cubre_mancha_del_logo {
+    position: relative;
+    overflow: visible;
+    width: 22px;
+    height: 269px;
+    left: 0px;
+    top: 80px;
+    z-index: 1;
+}
+#S_COMPONENTES {
+    position: absolute;
+    width: 1133px;
+    height: 1425px;
+    left: 394px;
+    top: 1107px;
+    overflow: visible;
+}
+#Componentes {
+    position: absolute;
+    width: 1133px;
+    height: 1261px;
+    left: 0px;
+    top: 164px;
+    overflow: hidden;
+}
+#Componentes_cd {
+    position: absolute;
+    width: 523px;
+    height: 590px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#denis {
+    position: absolute;
+    width: 523px;
+    height: 376px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Denis_Hatton {
+    left: 78px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 369px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#Guitarra_y_Voz {
+    left: 126px;
+    top: 522px;
+    position: absolute;
+    overflow: visible;
+    width: 275px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 61px;
+    color: rgba(121,200,205,1);
+}
+#Componentes_ch {
+    position: absolute;
+    width: 523px;
+    height: 590px;
+    left: 596px;
+    top: 0px;
+    overflow: visible;
+}
+#denis_ci {
+    position: absolute;
+    width: 523px;
+    height: 376px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#David_M {
+    left: 144px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 237px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#Guitarra {
+    left: 182px;
+    top: 522px;
+    position: absolute;
+    overflow: visible;
+    width: 163px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 61px;
+    color: rgba(121,200,205,1);
+}
+#Componentes_cl {
+    position: absolute;
+    width: 523px;
+    height: 590px;
+    left: 0px;
+    top: 656px;
+    overflow: visible;
+}
+#denis_cm {
+    position: absolute;
+    width: 523px;
+    height: 376px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Luis_Vique {
+    left: 117px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 291px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#Bajo_elctrico {
+    left: 130px;
+    top: 522px;
+    position: absolute;
+    overflow: visible;
+    width: 267px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 61px;
+    color: rgba(121,200,205,1);
+}
+#Componentes_cp {
+    position: absolute;
+    width: 523px;
+    height: 590px;
+    left: 596px;
+    top: 656px;
+    overflow: visible;
+}
+#denis_cq {
+    position: absolute;
+    width: 523px;
+    height: 376px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Melvin_Franco {
+    left: 63px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 399px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#Batera {
+    left: 193px;
+    top: 522px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 61px;
+    color: rgba(121,200,205,1);
+}
+#COMPONENTES {
+    left: 356px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 422px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 92px;
+    color: rgba(121,200,205,1);
+}
+#S_DESCRIPCION {
+    position: absolute;
+    width: 1520px;
+    height: 1436px;
+    left: 200px;
+    top: 2627px;
+    overflow: visible;
+}
+#Descripcin___Lorem_ipsum_dolor {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1521px;
+    height: 1436px;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 61px;
+    color: rgba(121,200,205,1);
+}
+#S_GRACIAS {
+    position: absolute;
+    width: 1920px;
+    height: 472px;
+    left: 0px;
+    top: 4146px;
+    overflow: visible;
+}
+#fondo_gracias {
+    fill: rgba(5,121,129,1);
+}
+.fondo_gracias {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 472px;
+    left: 0px;
+    top: 0px;
+}
+#Gracias {
+    position: absolute;
+    width: 561px;
+    height: 337px;
+    left: 680px;
+    top: 45px;
+    overflow: visible;
+}
+#Gracias_cz {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 562px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 232px;
+    color: rgba(121,200,205,1);
+}
+#por_hacerlo_posible {
+    left: 74px;
+    top: 260px;
+    position: absolute;
+    overflow: visible;
+    width: 415px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 68px;
+    color: rgba(121,200,205,1);
+}
+#S_EVENTO {
+    position: absolute;
+    width: 1920px;
+    height: 939px;
+    left: 0px;
+    top: 4726px;
+    overflow: visible;
+}
+#rock2 {
+    position: absolute;
+    width: 1920px;
+    height: 939px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#transparencia_rock2 {
+    opacity: 0.55;
+    fill: rgba(0,0,0,1);
+}
+.transparencia_rock2 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 939px;
+    left: 0px;
+    top: 0px;
+}
+#masInformacion {
+    position: absolute;
+    width: 738px;
+    height: 145px;
+    left: 640px;
+    top: 696px;
+    overflow: visible;
+}
+#Rectngulo_13 {
+    fill: rgba(204,170,53,1);
+}
+.Rectngulo_13 {
+    position: absolute;
+    overflow: visible;
+    width: 738px;
+    height: 145px;
+    left: 0px;
+    top: 0px;
+}
+#MS_INFORMACIN {
+    left: 64px;
+    top: 37px;
+    position: absolute;
+    overflow: visible;
+    width: 610px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 63px;
+    color: rgba(0,0,0,1);
+}
+#Un_evento_imbatible {
+    left: 325px;
+    top: 213px;
+    position: absolute;
+    overflow: visible;
+    width: 1272px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Algerian;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 114px;
+    color: rgba(190,161,59,1);
+}
+#Te_lo_vas_a_perder {
+    left: 522px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 948px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Algerian;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 89px;
+    color: rgba(204,170,53,1);
+}
+#S_TIENDA {
+    position: absolute;
+    width: 1920px;
+    height: 1338px;
+    left: 0px;
+    top: 5665px;
+    overflow: visible;
+}
+#Rectngulo_14 {
+    opacity: 0.77;
+    fill: rgba(204,170,53,1);
+}
+.Rectngulo_14 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 1338px;
+    left: 0px;
+    top: 0px;
+}
+#contenido_tienda {
+    position: absolute;
+    width: 1240px;
+    height: 1040px;
+    left: 340px;
+    top: 152px;
+    overflow: visible;
+}
+#TIENDA_CA {
+    left: 367px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 509px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 94px;
+    color: rgba(0,0,0,1);
+}
+#Cuadrcula_de_repeticin_1 {
+    position: absolute;
+    width: 1240px;
+    height: 899px;
+    left: 0px;
+    top: 141px;
+    overflow: hidden;
+}
+#Group {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_15 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15 {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4 {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16 {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16 {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA {
+    left: 90px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Group_dk {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 432px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_15_dl {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15_dl {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4_dm {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16_dn {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16_dn {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR_do {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA_dp {
+    left: 75px;
+    top: 331px;
+    position: relative;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Group_dq {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 864px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_15_dr {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15_dr {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4_ds {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16_dt {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16_dt {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR_du {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA_dv {
+    left: 110px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Group_dw {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 0px;
+    top: 456px;
+    overflow: visible;
+}
+#Rectngulo_15_dx {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15_dx {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4_dy {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16_dz {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16_dz {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR_d {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA_d {
+    left: 110px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Group_d {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 432px;
+    top: 456px;
+    overflow: visible;
+}
+#Rectngulo_15_d {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15_d {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4_d {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16_d {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16_d {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR_ea {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA_ea {
+    left: 90px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Group_ea {
+    position: absolute;
+    width: 364px;
+    height: 436px;
+    left: 864px;
+    top: 456px;
+    overflow: visible;
+}
+#Rectngulo_15_ea {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_15_ea {
+    position: absolute;
+    overflow: visible;
+    width: 364px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_4_ea {
+    position: absolute;
+    width: 182px;
+    height: 57px;
+    left: 91px;
+    top: 379px;
+    overflow: visible;
+}
+#Rectngulo_16_eb {
+    fill: rgba(245,228,171,1);
+    stroke: rgba(204,170,53,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_16_eb {
+    position: absolute;
+    overflow: visible;
+    width: 182px;
+    height: 57px;
+    left: 0px;
+    top: 0px;
+}
+#COMPRAR_ec {
+    left: 27px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Camiseta_CA_ed {
+    left: 70px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#S_OPINIONES {
+    position: absolute;
+    width: 4758px;
+    height: 556.816px;
+    left: 22px;
+    top: 7085px;
+    overflow: visible;
+}
+#OPINIONES {
+    left: 724px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 429px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 128px;
+    color: rgba(121,200,205,1);
+}
+#Opinin {
+    position: absolute;
+    width: 4758px;
+    height: 259.445px;
+    left: 0px;
+    top: 297.371px;
+    overflow: hidden;
+}
+#Opinin_eh {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 1px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_ek {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ek {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_el {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_el {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_em {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_em {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_en {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_en {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_eo {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_eo {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_eq {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 479px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_er {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_er {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_es {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_et {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_et {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_eu {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_eu {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_ev {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ev {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_ew {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ew {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_ex {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ex {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_ey {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_ez {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 957px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_e {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_e {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_e {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_fa {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fa {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fb {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fb {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fc {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fc {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fd {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fd {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fe {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fe {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_e {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_e {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 1435px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_ff {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_ff {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_fa {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_fg {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fg {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fh {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fh {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fi {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fi {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fj {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fj {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fk {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fk {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_fg {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_fh {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 1913px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_fl {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_fl {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_fj {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_fm {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fm {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fn {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fn {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fo {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fo {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fp {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fp {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fq {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fq {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_fp {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_fq {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 2391px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_fr {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_fr {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_fs {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_ft {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ft {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fu {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fu {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fv {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fv {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fw {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fw {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_fx {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_fx {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_fy {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_fz {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 2869px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_f {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_f {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_f {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_ga {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ga {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gb {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gb {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gc {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gc {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gd {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gd {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_ge {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_ge {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_f {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_f {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 3347px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gf {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_gf {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_ga {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gg {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gg {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gh {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gh {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gi {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gi {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gj {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gj {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gk {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gk {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_gg {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_gh {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 3825px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gl {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_gl {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_gj {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gm {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gm {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gn {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gn {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_go {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_go {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gp {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gp {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gq {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gq {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_gp {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#Opinin_gq {
+    position: absolute;
+    width: 442px;
+    height: 259.445px;
+    left: 4303px;
+    top: 0px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gr {
+    fill: rgba(121,200,205,1);
+}
+.Icon_metro-star-full_gr {
+    overflow: visible;
+    position: absolute;
+    width: 105.141px;
+    height: 99.995px;
+    left: 168.43px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Estrellitas_gs {
+    position: absolute;
+    width: 204.711px;
+    height: 36.816px;
+    left: 118.645px;
+    top: 222.629px;
+    overflow: visible;
+}
+#Icon_metro-star-full_gt {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gt {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 83px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gu {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gu {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 42px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gv {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gv {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gw {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gw {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 125px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-star-full_gx {
+    fill: rgba(204,170,53,1);
+}
+.Icon_metro-star-full_gx {
+    overflow: visible;
+    position: absolute;
+    width: 38.711px;
+    height: 36.816px;
+    left: 166px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Que_subidn_de_adrenalina_Una_l_gy {
+    left: 0px;
+    top: 128.629px;
+    position: absolute;
+    overflow: visible;
+    width: 443px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(121,200,205,1);
+}
+#HEADERS {
+    position: absolute;
+    width: 1920px;
+    height: 253px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#HEADER_2 {
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0px;
+    top: 173px;
+    overflow: visible;
+}
+#Fondo_HEADER_2 {
+    fill: rgba(121,200,205,1);
+}
+.Fondo_HEADER_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 71px;
+    left: 0px;
+    top: 0px;
+}
+#Inicio {
+    position: absolute;
+    width: 108px;
+    height: 49px;
+    left: 200px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_3 {
+    fill: transparent;
+}
+.Rectngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 108px;
+    height: 28px;
+    left: 0px;
+    top: 13px;
+}
+#INICIO {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(0,0,0,1);
+}
+#Concierto {
+    position: absolute;
+    width: 195px;
+    height: 49px;
+    left: 352px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_4 {
+    fill: transparent;
+}
+.Rectngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 195px;
+    height: 28px;
+    left: 0px;
+    top: 13px;
+}
+#CONCIERTO {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 196px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(0,0,0,1);
+}
+#Promociones {
+    position: absolute;
+    width: 258px;
+    height: 49px;
+    left: 590px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_5 {
+    fill: transparent;
+}
+.Rectngulo_5 {
+    position: absolute;
+    overflow: visible;
+    width: 258px;
+    height: 28px;
+    left: 0px;
+    top: 13px;
+}
+#PROMOCIONES {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(0,0,0,1);
+}
+#Tienda {
+    position: absolute;
+    width: 125px;
+    height: 49px;
+    left: 892px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_6 {
+    fill: transparent;
+}
+.Rectngulo_6 {
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    height: 28px;
+    left: 0px;
+    top: 13px;
+}
+#TIENDA {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(201,24,36,1);
+}
+#Comprar_Entradas {
+    position: absolute;
+    width: 387px;
+    height: 49px;
+    left: 1333px;
+    top: 11px;
+    overflow: visible;
+}
+#Rectngulo_2 {
+    fill: transparent;
+    stroke: rgba(5,121,129,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 387px;
+    height: 45px;
+    left: 0px;
+    top: 4px;
+}
+#COMPRAR_ENTRADAS {
+    left: 12px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 363px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(0,0,0,1);
+}
+#Trazado_1 {
+    fill: rgba(5,121,129,1);
+}
+.Trazado_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 9px;
+    left: 0px;
+    top: 71px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#HEADER_1 {
+    position: absolute;
+    width: 1920px;
+    height: 173px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Fondo_HEADER {
+    fill: rgba(174,203,205,1);
+}
+.Fondo_HEADER {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 173px;
+    left: 0px;
+    top: 0px;
+}
+#Parte_Izquierda {
+    position: absolute;
+    width: 896px;
+    height: 48px;
+    left: 200px;
+    top: 57px;
+    overflow: visible;
+}
+#Iconos {
+    position: absolute;
+    width: 168.712px;
+    height: 43.716px;
+    left: 260px;
+    top: 1.642px;
+    overflow: visible;
+}
+#Icon_ionic-logo-youtube_hm {
+    fill: rgba(0,0,0,1);
+}
+.Icon_ionic-logo-youtube_hm {
+    overflow: visible;
+    position: absolute;
+    width: 47.819px;
+    height: 43.716px;
+    left: 60.451px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Instagram_Icono_hn {
+    fill: rgba(0,0,0,1);
+}
+.Instagram_Icono_hn {
+    overflow: visible;
+    position: absolute;
+    width: 43.726px;
+    height: 43.716px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+    z-index: 1;
+}
+#Spotify_Icono_ho {
+    fill: rgba(0,0,0,1);
+}
+.Spotify_Icono_ho {
+    overflow: visible;
+    position: absolute;
+    width: 43.716px;
+    height: 43.716px;
+    left: 124.996px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Textos_sueltos {
+    position: absolute;
+    width: 896px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#SGUENOS_EN_hq {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    color: rgba(0,0,0,1);
+}
+#nete_a_la_Comunidad_Camino_rti {
+    left: 486px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 411px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Grupo_Instrumental_Enlace {
+    position: absolute;
+    width: 287px;
+    height: 36px;
+    left: 1155px;
+    top: 63px;
+    overflow: visible;
+}
+#Texto_Fondo {
+    fill: transparent;
+}
+.Texto_Fondo {
+    position: absolute;
+    overflow: visible;
+    width: 287px;
+    height: 21px;
+    left: 0px;
+    top: 9px;
+}
+#GRUPO_INSTRUMENTAL {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 288px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    color: rgba(0,0,0,1);
+}
+#Idioma_Espaol {
+    position: absolute;
+    width: 103px;
+    height: 41px;
+    left: 1501px;
+    top: 61px;
+    overflow: visible;
+}
+#Espaa_Bandera {
+    position: absolute;
+    width: 61px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Fondo_ES {
+    fill: transparent;
+}
+.Fondo_ES {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 41px;
+    left: 61px;
+    top: 0px;
+}
+#ES {
+    left: 69px;
+    top: 2px;
+    position: absolute;
+    overflow: visible;
+    width: 27px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Idioma_Ingls {
+    position: absolute;
+    width: 103px;
+    height: 41px;
+    left: 1617px;
+    top: 61px;
+    overflow: visible;
+}
+#Inglaterra_Bandera {
+    position: absolute;
+    width: 61px;
+    height: 41px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Fondo_EN {
+    fill: transparent;
+}
+.Fondo_EN {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 41px;
+    left: 61px;
+    top: 0px;
+}
+#EN {
+    left: 69px;
+    top: 2px;
+    position: absolute;
+    overflow: visible;
+    width: 32px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+
+#FONDO{
+    position: fixed;
+    top: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.grupo_instrumental {
+    cursor: pointer;
+}
+
+#inputNombre{
+    background-color: rgba(218,222,223,1);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#inputCorreo{
+    background-color: rgba(218,222,223,1);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.suscribirr{
+    cursor: pointer;
+}
